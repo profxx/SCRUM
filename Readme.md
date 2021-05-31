@@ -1,9 +1,9 @@
 ## SCRUM
 
 ### GRUPO: 
-- Isabel
-- Emili
-- Max
-- Olivia 
-- Gustavo
+- Product Owener- Isabel
+- Scrum Master- Emili
+- Dev1- Max
+- Dev2- Olivia 
+- Dev3- Gustavo
 

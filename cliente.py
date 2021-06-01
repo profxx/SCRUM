@@ -167,8 +167,8 @@ class App(Funcs, Relatorios, Validadores):
         filemenu = Menu(menubar, tearoff=0) 
         filemenu2= Menu(menubar, tearoff=0)
 
-        def quit():
-            self.root.destroy()
+      def quit():
+          self.root.destroy()
 
         menubar.add_cascade (label="Opções", menu = filemenu) 
         menubar.add_cascade (label="Relatórios", menu = filemenu2)
